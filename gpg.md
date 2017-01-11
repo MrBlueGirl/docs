@@ -10,4 +10,4 @@ Edit expire date for pgp key and set it 2 years from current date.
 
 ### Websites
 
- * [[https://riseup.net/en/security/message-security/openpgp/best-practices|PGP Best Practices]]
+ * [PGP Best Practices](https://riseup.net/en/security/message-security/openpgp/best-practices)
